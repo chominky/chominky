@@ -8,7 +8,7 @@
 - 💼 Currently at Artificial Intelligence Research Institute(AIRI)
 - ⌚ Mainly on: Time Series Prediction
 - 🚀 Area includes: Robo-Advisor
-- 🎓 Applied mathmatics & finance at KHU, Mathematical Science at UNIST
+- 🎓 Applied mathematics & finance at KHU, Mathematical Science at UNIST
 - 🥅 Goals: Be helpful colleague
 
 ### Tech Stack
