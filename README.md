@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=209BEA&height=300&section=header&text=chominky's%20Github&fontSize=50)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominky&count_private=true)](https://github.com/chominky/github-readme-stats) 
 
 ## Hey, I'm minky 👋
 
